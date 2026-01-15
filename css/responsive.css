@@ -162,14 +162,27 @@
 
   .hero {
     min-height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .hero-content {
     text-align: center;
+    margin: 0 auto;
+    padding-left: var(--space-6);
+    padding-right: var(--space-6);
+    max-width: 100%;
+  }
+
+  .hero-title {
+    font-size: clamp(2rem, 8vw, 2.75rem);
+    line-height: 1.2;
   }
 
   .hero-ctas {
     align-items: center;
+    justify-content: center;
   }
 
   .hero-trust {
