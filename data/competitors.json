@@ -1,0 +1,2973 @@
+{
+  "businesses": [
+    {
+      "name": "Cano Air Conditioning & Heating Inc.",
+      "address": null,
+      "phone": "(619) 733-0152",
+      "website": "https://www.canoair.com/",
+      "rating": 5,
+      "review_count": 177,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Cano%20Air%20Conditioning%20%26%20Heating%20Inc.&query_place_id=ChIJ-btWTZ5F2YARmbdfUifS7AM",
+      "place_id": "ChIJ-btWTZ5F2YARmbdfUifS7AM"
+    },
+    {
+      "name": "Comfort Bros Heating Air Plumbing & Electrical",
+      "address": "10149 Channel Rd Suite E, Lakeside, CA 92040",
+      "phone": "",
+      "website": "https://hamelsac.com/air-conditioning/ac-repair/lakeside-ca/",
+      "rating": 4.9,
+      "review_count": 424,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Bros%20Heating%20Air%20Plumbing%20%26%20Electrical&query_place_id=ChIJT9ZeNBnj24ARLk4PNDTK11E",
+      "place_id": "ChIJT9ZeNBnj24ARLk4PNDTK11E"
+    },
+    {
+      "name": "Anderson Plumbing, Heating & Air",
+      "address": "5183 Mercury Point, San Diego, CA 92111",
+      "phone": "(619) 320-1884",
+      "website": "https://www.andersonplumbingheatingandair.com/service-areas/san-diego/?utm_source=google&utm_medium=GBP",
+      "rating": 4.8,
+      "review_count": 5839,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Anderson%20Plumbing%2C%20Heating%20%26%20Air&query_place_id=ChIJ_e9_diVY2YARFdDC-cvxKJE",
+      "place_id": "ChIJ_e9_diVY2YARFdDC-cvxKJE"
+    },
+    {
+      "name": "HVAC Near Me",
+      "address": "947 W Redwood Dr, Chandler, AZ 85248",
+      "phone": "(602) 932-0124",
+      "website": "https://hvacnearme.today/",
+      "rating": 5,
+      "review_count": 592,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=HVAC%20Near%20Me&query_place_id=ChIJ1TvObs4nxWoRWpM1jeqgdVs",
+      "place_id": "ChIJ1TvObs4nxWoRWpM1jeqgdVs"
+    },
+    {
+      "name": "Same Day Heating, Cooling, Plumbing",
+      "address": "9771 Clairemont Mesa Blvd Suite E, San Diego, CA 92124",
+      "phone": "(619) 345-0832",
+      "website": "https://samedaysd.com/?utm_source=google&utm_medium=gmb",
+      "rating": 4.8,
+      "review_count": 1633,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Same%20Day%20Heating%2C%20Cooling%2C%20Plumbing&query_place_id=ChIJV4uqnjb_24AR2immIIwsWIs",
+      "place_id": "ChIJV4uqnjb_24AR2immIIwsWIs"
+    },
+    {
+      "name": "Ez Breezy Heating & Air",
+      "address": "5160 Mercury Point Unit B, San Diego, CA 92111",
+      "phone": "(858) 877-8788",
+      "website": "https://ezbreezyac.com/",
+      "rating": 5,
+      "review_count": 468,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7:59\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:59\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:59\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:59\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:59\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7:59\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7:59\u202fAM to 9\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Ez%20Breezy%20Heating%20%26%20Air&query_place_id=ChIJyZ-ASYHx24AR5T3i5TQBa9A",
+      "place_id": "ChIJyZ-ASYHx24AR5T3i5TQBa9A"
+    },
+    {
+      "name": "Mauzy Cooling, Heating, Plumbing, and Electrical",
+      "address": "1456 Magnolia Ave Ste E, El Cajon, CA 92021",
+      "phone": "(619) 485-3936",
+      "website": "https://mauzy.com/areas-served/el-cajon/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*143*mauzy-heating-air-el-cajon",
+      "rating": 4.8,
+      "review_count": 4666,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Mauzy%20Cooling%2C%20Heating%2C%20Plumbing%2C%20and%20Electrical&query_place_id=ChIJOUNgSehU2YARadzzd7bpc68",
+      "place_id": "ChIJOUNgSehU2YARadzzd7bpc68"
+    },
+    {
+      "name": "Guthrie & Sons Heating, Air and Solar",
+      "address": "8248 Ronson Rd, San Diego, CA 92111",
+      "phone": "(619) 257-2204",
+      "website": "https://www.guthrieandsons.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-San-Diego-CA",
+      "rating": 4.9,
+      "review_count": 1475,
+      "category": "Air conditioning contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "12\u202fAM to 11:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12\u202fAM to 11:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12\u202fAM to 11:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12\u202fAM to 11:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u202fAM to 11:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12\u202fAM to 11:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12\u202fAM to 11:30\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Guthrie%20%26%20Sons%20Heating%2C%20Air%20and%20Solar&query_place_id=ChIJQTUxKfCq3oARj2_seK5M9uQ",
+      "place_id": "ChIJQTUxKfCq3oARj2_seK5M9uQ"
+    },
+    {
+      "name": "La Jolla Heating and Air Conditioning",
+      "address": null,
+      "phone": "(858) 201-4467",
+      "website": "",
+      "rating": 5,
+      "review_count": 80,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Jolla%20Heating%20and%20Air%20Conditioning&query_place_id=ChIJoV3SDYHj24ARbbhf0zV9-eM",
+      "place_id": "ChIJoV3SDYHj24ARbbhf0zV9-eM"
+    },
+    {
+      "name": "Reliable Standard Heating & Air",
+      "address": "11315 Rancho Bernardo Rd #138, San Diego, CA 92127",
+      "phone": "(858) 768-0322",
+      "website": "http://reliablestandard.com/",
+      "rating": 5,
+      "review_count": 104,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM to 12\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM to 12\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM to 12\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM to 12\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM to 12\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fAM to 12\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Reliable%20Standard%20Heating%20%26%20Air&query_place_id=ChIJ8wTX5yn324ARv3qsLU_Whpk",
+      "place_id": "ChIJ8wTX5yn324ARv3qsLU_Whpk"
+    },
+    {
+      "name": "Bob Jenson",
+      "address": "8159 Engineer Rd, San Diego, CA 92111",
+      "phone": "(619) 440-5634",
+      "website": "https://bobjenson.com/?utm_source=gmb&utm_medium=organic",
+      "rating": 4.9,
+      "review_count": 1320,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7:30\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:30\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:30\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:30\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:30\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Jenson&query_place_id=ChIJPTteowFZ2YARl5EKtobhD6Y",
+      "place_id": "ChIJPTteowFZ2YARl5EKtobhD6Y"
+    },
+    {
+      "name": "Coronado HVAC LLC",
+      "address": "2730 W Royal Palm Rd, Phoenix, AZ 85051",
+      "phone": "(602) 538-3616",
+      "website": "http://www.coronadohvac.com/",
+      "rating": 5,
+      "review_count": 27,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Coronado%20HVAC%20LLC&query_place_id=ChIJP6oHHlSOHyURc4HCm3ERnf0",
+      "place_id": "ChIJP6oHHlSOHyURc4HCm3ERnf0"
+    },
+    {
+      "name": "Progressive Heating & Air",
+      "address": "4828 Ronson Ct, San Diego, CA 92111",
+      "phone": "(858) 463-6753",
+      "website": "https://www.progressiveairconditioning.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 4.8,
+      "review_count": 240,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Progressive%20Heating%20%26%20Air&query_place_id=ChIJSSmK2D5V2YARq2_6ZCvaEzI",
+      "place_id": "ChIJSSmK2D5V2YARq2_6ZCvaEzI"
+    },
+    {
+      "name": "Airmaxx",
+      "address": "1865 John Towers Ave # B, El Cajon, CA 92020",
+      "phone": "(619) 639-1960",
+      "website": "http://airmaxx.com/?utm_campaign=gmb",
+      "rating": 4.9,
+      "review_count": 733,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7:30\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:30\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:30\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:30\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:30\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7:30\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7:30\u202fAM to 7\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Airmaxx&query_place_id=ChIJ5Wt_KB9Y2YARScyY6GWfgAw",
+      "place_id": "ChIJ5Wt_KB9Y2YARScyY6GWfgAw"
+    },
+    {
+      "name": "Morse & Bailey A/C Heating",
+      "address": null,
+      "phone": "(619) 447-6467",
+      "website": "http://www.morseandbailey.com/",
+      "rating": 4.7,
+      "review_count": 15,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 3\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 3\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 3\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 3\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 2\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Morse%20%26%20Bailey%20A%2FC%20Heating&query_place_id=ChIJ-aHQIkVf2YARqmzj2d57c60",
+      "place_id": "ChIJ-aHQIkVf2YARqmzj2d57c60"
+    },
+    {
+      "name": "Friar's Plumbing Heating and AC Repair",
+      "address": "5555 Magnatron Blvd Ste G, San Diego, CA 92111",
+      "phone": "(619) 317-1730",
+      "website": "https://www.friarsair.com/ac-repair-san-diego-ca/?utm_campaign=gmb",
+      "rating": 4.9,
+      "review_count": 625,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Friar's%20Plumbing%20Heating%20and%20AC%20Repair&query_place_id=ChIJpwI-XBtT2YARWjWddiSqsNk",
+      "place_id": "ChIJpwI-XBtT2YARWjWddiSqsNk"
+    },
+    {
+      "name": "JPM Heating & Air Inc.",
+      "address": "1551 Cuyamaca St, El Cajon, CA 92020",
+      "phone": "(619) 647-0425",
+      "website": "https://www.jpmair.com/",
+      "rating": 5,
+      "review_count": 355,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=JPM%20Heating%20%26%20Air%20Inc.&query_place_id=ChIJe4cp2SNY2YARPaMu7gwvP4s",
+      "place_id": "ChIJe4cp2SNY2YARPaMu7gwvP4s"
+    },
+    {
+      "name": "Slayton Mechanical Contractors",
+      "address": "9824 Vine St, Lakeside, CA 92040",
+      "phone": "(619) 390-4900",
+      "website": "http://slaytonmechanical.com/",
+      "rating": 5,
+      "review_count": 17,
+      "category": "Air conditioning contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 3:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 3:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 3:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 3:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 3:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Slayton%20Mechanical%20Contractors&query_place_id=ChIJVU8Xonbi24ARNUGCeDQphSY",
+      "place_id": "ChIJVU8Xonbi24ARNUGCeDQphSY"
+    },
+    {
+      "name": "Plumber Chula Vista by Castillo Works",
+      "address": null,
+      "phone": "(619) 864-1432",
+      "website": "https://castilloworksinc.com/",
+      "rating": 4.9,
+      "review_count": 165,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Plumber%20Chula%20Vista%20by%20Castillo%20Works&query_place_id=ChIJyf-RLmpF2YARV8bOF6l4ZOk",
+      "place_id": "ChIJyf-RLmpF2YARV8bOF6l4ZOk"
+    },
+    {
+      "name": "Stable Temp HVAC",
+      "address": "4901 Morena Blvd Ste 319, San Diego, CA 92117",
+      "phone": "(858) 766-5520",
+      "website": "http://stabletemphvac.com/",
+      "rating": 4.9,
+      "review_count": 347,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Stable%20Temp%20HVAC&query_place_id=ChIJrXwF3EFV2YAR5QnYif0NdcM",
+      "place_id": "ChIJrXwF3EFV2YAR5QnYif0NdcM"
+    },
+    {
+      "name": "Carini Home Services",
+      "address": "7924 Ronson Rd D, San Diego, CA 92111",
+      "phone": "(619) 332-5176",
+      "website": "https://www.carinihome.com/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb",
+      "rating": 4.8,
+      "review_count": 973,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Carini%20Home%20Services&query_place_id=ChIJR4pI5VYA3IARXpUUhKYpeHY",
+      "place_id": "ChIJR4pI5VYA3IARXpUUhKYpeHY"
+    },
+    {
+      "name": "HVAC San Diego King",
+      "address": "2040 Columbia St, San Diego, CA 92101",
+      "phone": "(619) 202-8344",
+      "website": "https://topcoolingguys.com/",
+      "rating": 5,
+      "review_count": 94,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 11:55\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 11:55\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 11:55\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 11:55\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 11:55\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 11:55\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM to 11:55\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=HVAC%20San%20Diego%20King&query_place_id=ChIJJ6QYM7JU2YARE3XhI_F_KYk",
+      "place_id": "ChIJJ6QYM7JU2YARE3XhI_F_KYk"
+    },
+    {
+      "name": "One Hour Heating & Air Conditioning",
+      "address": "7310 Miramar Rd #380, San Diego, CA 92126",
+      "phone": "(619) 736-2038",
+      "website": "https://onehoursd.com/",
+      "rating": 4.9,
+      "review_count": 800,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=One%20Hour%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJ4wJHPhT_24AR0dAuOUursCM",
+      "place_id": "ChIJ4wJHPhT_24AR0dAuOUursCM"
+    },
+    {
+      "name": "Action Air Conditioning & Heating",
+      "address": "6339 Nancy Ridge Dr #102, San Diego, CA 92121",
+      "phone": "(858) 294-1362",
+      "website": "https://actionac.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp_website",
+      "rating": 4.9,
+      "review_count": 383,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Action%20Air%20Conditioning%20%26%20Heating&query_place_id=ChIJxTA2-EsH3IARbxXO_Vz08F0",
+      "place_id": "ChIJxTA2-EsH3IARbxXO_Vz08F0"
+    },
+    {
+      "name": "San Diego Air Comfort Heating & Air Conditioning",
+      "address": null,
+      "phone": "(858) 860-4438",
+      "website": "https://sandiegoaircomfort.com/",
+      "rating": 4.9,
+      "review_count": 48,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=San%20Diego%20Air%20Comfort%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJg1TitRr524ARyqSilLgZSyM",
+      "place_id": "ChIJg1TitRr524ARyqSilLgZSyM"
+    },
+    {
+      "name": "Comfort Air Conditioning & Heating",
+      "address": "7318 Conestoga Ct, San Diego, CA 92120",
+      "phone": "(858) 519-8003",
+      "website": "https://www.comfortacandheating.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "review_count": 151,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Air%20Conditioning%20%26%20Heating&query_place_id=ChIJTTWGMTJX2YAR3lUa4uIzOkw",
+      "place_id": "ChIJTTWGMTJX2YAR3lUa4uIzOkw"
+    },
+    {
+      "name": "Big City Air Conditioning, Heating, and Appliance Repair",
+      "address": "3113 Market St # A, San Diego, CA 92102",
+      "phone": "(619) 367-9079",
+      "website": "https://bigcityhomeservice.com/?utm_campaign=gmb",
+      "rating": 4.3,
+      "review_count": 136,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20City%20Air%20Conditioning%2C%20Heating%2C%20and%20Appliance%20Repair&query_place_id=ChIJRSiPQdZT2YARA-qTbwkxmdY",
+      "place_id": "ChIJRSiPQdZT2YARA-qTbwkxmdY"
+    },
+    {
+      "name": "Smith & Sons Heating and Air Inc.",
+      "address": "8859 Balboa Ave STE E, San Diego, CA 92123",
+      "phone": "(619) 251-9285",
+      "website": "https://smithandsonsheatandair.com/",
+      "rating": 5,
+      "review_count": 203,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Smith%20%26%20Sons%20Heating%20and%20Air%20Inc.&query_place_id=ChIJuUleiaoGbiIRA8cXb--a-dA",
+      "place_id": "ChIJuUleiaoGbiIRA8cXb--a-dA"
+    },
+    {
+      "name": "Prime Air Solutions",
+      "address": "11040 Bryce Way, San Diego, CA 92129",
+      "phone": "(619) 655-3355",
+      "website": "http://yourprimeservice.com/",
+      "rating": 4.9,
+      "review_count": 109,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM to 10\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Prime%20Air%20Solutions&query_place_id=ChIJh8DQ6U_524ARMO3dmhxWZE8",
+      "place_id": "ChIJh8DQ6U_524ARMO3dmhxWZE8"
+    },
+    {
+      "name": "Pure Air San Diego",
+      "address": "9373 Activity Rd, San Diego, CA 92126",
+      "phone": "(619) 485-5042",
+      "website": "https://pureairsandiego.com/",
+      "rating": 4.8,
+      "review_count": 397,
+      "category": "Air duct cleaning service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Pure%20Air%20San%20Diego&query_place_id=ChIJwcEQ2NQD3IARr6IneNNMEHI",
+      "place_id": "ChIJwcEQ2NQD3IARr6IneNNMEHI"
+    },
+    {
+      "name": "Air Plus Heating & Cooling",
+      "address": "9484 Chesapeake Dr Ste. 806, San Diego, CA 92123",
+      "phone": "(858) 505-8711",
+      "website": "https://airplusmechanical.com/",
+      "rating": 4.9,
+      "review_count": 321,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Air%20Plus%20Heating%20%26%20Cooling&query_place_id=ChIJDS8W1nMA3IARUBAHen_xvfc",
+      "place_id": "ChIJDS8W1nMA3IARUBAHen_xvfc"
+    },
+    {
+      "name": "Bill Howe Plumbing, Heating & Air, Restoration & Flood Services",
+      "address": "9210 Sky Park Ct, San Diego, CA 92123",
+      "phone": "(800) 245-5469",
+      "website": "http://www.billhowe.com/",
+      "rating": 4.8,
+      "review_count": 4771,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Bill%20Howe%20Plumbing%2C%20Heating%20%26%20Air%2C%20Restoration%20%26%20Flood%20Services&query_place_id=ChIJ7SRNp9b_24ARud-UZvhgX9k",
+      "place_id": "ChIJ7SRNp9b_24ARud-UZvhgX9k"
+    },
+    {
+      "name": "Surf Bros HVAC",
+      "address": "2710 Adams Ave, San Diego, CA 92116",
+      "phone": "(619) 848-3133",
+      "website": "https://www.surfbroshvac.com/",
+      "rating": 5,
+      "review_count": 109,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Surf%20Bros%20HVAC&query_place_id=ChIJ885BXO4GE6kRqdKYx-0njtM",
+      "place_id": "ChIJ885BXO4GE6kRqdKYx-0njtM"
+    },
+    {
+      "name": "San Diego Heating & Air Conditioning",
+      "address": "3878 40th St, San Diego, CA 92105",
+      "phone": "(858) 384-8699",
+      "website": "",
+      "rating": 4.7,
+      "review_count": 46,
+      "category": "Air conditioning contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=San%20Diego%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJrWxpfBD53YYRTe7E_m72WuU",
+      "place_id": "ChIJrWxpfBD53YYRTe7E_m72WuU"
+    },
+    {
+      "name": "HVAC ASAP",
+      "address": "11417 W Bernardo Ct Ste L, San Diego, CA 92127",
+      "phone": "(858) 788-1777",
+      "website": "http://hvac-sdpro.com/",
+      "rating": 5,
+      "review_count": 84,
+      "category": "Air conditioning repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 9\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=HVAC%20ASAP&query_place_id=ChIJ20uiXwD324ARpgUCVP-Bi78",
+      "place_id": "ChIJ20uiXwD324ARpgUCVP-Bi78"
+    },
+    {
+      "name": "San Diego Air Conditioning Contractor",
+      "address": null,
+      "phone": "(407) 307-2847",
+      "website": "https://san-diego-air-conditioning-contractor.ueniweb.com/?utm_campaign=gmb",
+      "rating": 5,
+      "review_count": 17,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=San%20Diego%20Air%20Conditioning%20Contractor&query_place_id=ChIJw-TnJuhV2YARi6eLyCyyjkU",
+      "place_id": "ChIJw-TnJuhV2YARi6eLyCyyjkU"
+    },
+    {
+      "name": "United Plumbing Heating Air & Electric",
+      "address": "6767 Nancy Ridge Dr Unit C, San Diego, CA 92121",
+      "phone": "(858) 215-6765",
+      "website": "https://localunitedservices.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
+      "rating": 4.9,
+      "review_count": 1584,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=United%20Plumbing%20Heating%20Air%20%26%20Electric&query_place_id=ChIJxWlMH1cH3IARbsv6v6umqAE",
+      "place_id": "ChIJxWlMH1cH3IARbsv6v6umqAE"
+    },
+    {
+      "name": "THA Heating Air & Plumbing Inc.",
+      "address": "3240 F St, San Diego, CA 92102",
+      "phone": "(858) 571-8865",
+      "website": "https://www.thaheatingandair.com/",
+      "rating": 4.5,
+      "review_count": 97,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=THA%20Heating%20Air%20%26%20Plumbing%20Inc.&query_place_id=ChIJ6Sg38rz_24AR9hne2aKnPvI",
+      "place_id": "ChIJ6Sg38rz_24AR9hne2aKnPvI"
+    },
+    {
+      "name": "Ideal Plumbing Heating Air Electrical",
+      "address": "5161 Waring Rd, San Diego, CA 92120",
+      "phone": "(619) 320-5990",
+      "website": "https://www.idealservice.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*384*ideal-plumbing-san-diego",
+      "rating": 4.8,
+      "review_count": 228,
+      "category": "Plumber",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Ideal%20Plumbing%20Heating%20Air%20Electrical&query_place_id=ChIJFTYRO99V2YARWJSIZ107HcI",
+      "place_id": "ChIJFTYRO99V2YARWJSIZ107HcI"
+    },
+    {
+      "name": "Blue Diamond Heating and Air",
+      "address": "1110 Tourmaline St, San Diego, CA 92109",
+      "phone": "(858) 544-1989",
+      "website": "http://bluediamond.tech/pacific-beach-hvac-company",
+      "rating": 5,
+      "review_count": 66,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Diamond%20Heating%20and%20Air&query_place_id=ChIJ292DAW8B3IAR8tp-Bd1RGck",
+      "place_id": "ChIJ292DAW8B3IAR8tp-Bd1RGck"
+    },
+    {
+      "name": "Air-Al, Inc.",
+      "address": "5539 W Pico Blvd, Los Angeles, CA 90019",
+      "phone": "(323) 934-3838",
+      "website": "https://airalac.com/",
+      "rating": 4.9,
+      "review_count": 20,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM to 1\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM to 1\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Air-Al%2C%20Inc.&query_place_id=ChIJ32Fd_Q-5woAR902iXA-2CwU",
+      "place_id": "ChIJ32Fd_Q-5woAR902iXA-2CwU"
+    },
+    {
+      "name": "EVO AIR",
+      "address": "9245 Twin Trails Dr Suite #721232, San Diego, CA 92129",
+      "phone": "(858) 605-8351",
+      "website": "http://www.evoairinc.com/",
+      "rating": 5,
+      "review_count": 83,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=EVO%20AIR&query_place_id=ChIJy-MRMun524ARYR5iy6SEEJg",
+      "place_id": "ChIJy-MRMun524ARYR5iy6SEEJg"
+    },
+    {
+      "name": "ACS/ American Comfort Services | Heating & Air Conditioning",
+      "address": "1648 Magnolia Ave Ste #109, El Cajon, CA 92020",
+      "phone": "(619) 501-2636",
+      "website": "https://www.acsheatandair.com/",
+      "rating": 4.9,
+      "review_count": 128,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=ACS%2F%20American%20Comfort%20Services%20%7C%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJrVBjf3yr3oARQvWV0hoFnsA",
+      "place_id": "ChIJrVBjf3yr3oARQvWV0hoFnsA"
+    },
+    {
+      "name": "A/C Mechanical Sol Inc",
+      "address": "7955 Silverton Ave #1212, San Diego, CA 92126",
+      "phone": "(866) 226-3909",
+      "website": "https://www.acandheating4you.com/",
+      "rating": 4.9,
+      "review_count": 234,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 2\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=A%2FC%20Mechanical%20Sol%20Inc&query_place_id=ChIJAeWn_ND424ARFl6ENN7jfn8",
+      "place_id": "ChIJAeWn_ND424ARFl6ENN7jfn8"
+    },
+    {
+      "name": "Zip Appliance Repair & Service",
+      "address": "4781 E Gettysburg Ave suite 111, Fresno, CA 93726",
+      "phone": "(559) 272-4265",
+      "website": "https://zipappliancerepairfresno.com/",
+      "rating": 4.8,
+      "review_count": 674,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6:30\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6:30\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6:30\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6:30\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6:30\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM to 4:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM to 7\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Zip%20Appliance%20Repair%20%26%20Service&query_place_id=ChIJs02UjlhdlIARkUpAQzW5c9w",
+      "place_id": "ChIJs02UjlhdlIARkUpAQzW5c9w"
+    },
+    {
+      "name": "Reynosa Appliance",
+      "address": "4535 N Bendel Ave # 103, Fresno, CA 93722",
+      "phone": "(559) 515-6805",
+      "website": "",
+      "rating": 4.5,
+      "review_count": 135,
+      "category": "Small appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM to 3\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM to 2:30\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Reynosa%20Appliance&query_place_id=ChIJUxYCgLFflIARHaa5KwvI8Yw",
+      "place_id": "ChIJUxYCgLFflIARHaa5KwvI8Yw"
+    },
+    {
+      "name": "Appliance Service Plus",
+      "address": "360 W Bedford Ave, Fresno, CA 93711",
+      "phone": "(559) 446-1071",
+      "website": "http://www.applianceserviceplusco.com/",
+      "rating": 4.5,
+      "review_count": 584,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Appliance%20Service%20Plus&query_place_id=ChIJJc_hJRpolIARHiRttRuggOM",
+      "place_id": "ChIJJc_hJRpolIARHiRttRuggOM"
+    },
+    {
+      "name": "Express Appliance Services",
+      "address": "5571 W Everett Ave, Fresno, CA 93722",
+      "phone": "(559) 349-1111",
+      "website": "https://expressapplianceservices.com/",
+      "rating": 5,
+      "review_count": 191,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Express%20Appliance%20Services&query_place_id=ChIJVVVpritvlIARxtZ9dHrU_A8",
+      "place_id": "ChIJVVVpritvlIARxtZ9dHrU_A8"
+    },
+    {
+      "name": "Roger's Appliance Repair",
+      "address": "623 N Burgan Ave, Fresno, CA 93727",
+      "phone": "(559) 709-1634",
+      "website": "",
+      "rating": 3.8,
+      "review_count": 9,
+      "category": "Appliance repair service",
+      "hours": [],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Roger's%20Appliance%20Repair&query_place_id=ChIJjUYnSN9YlIARh7D6hUA8KGE",
+      "place_id": "ChIJjUYnSN9YlIARh7D6hUA8KGE"
+    },
+    {
+      "name": "Sears Appliance Repair",
+      "address": "2051 High St, Selma, CA 93662",
+      "phone": "(559) 856-1519",
+      "website": "https://www.searshomeservices.com/locations/ca/selma/sears-appliance-repair/2051-high-street?utm_source=GMBlisting&utm_medium=organic&utm_campaign=GMBinhomerepair&SID=1034430&phone=5598561519",
+      "rating": 4.3,
+      "review_count": 101,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "4\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "4\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "4\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "4\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "4\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "4\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "4\u202fAM to 8\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Sears%20Appliance%20Repair&query_place_id=ChIJGzrIlpjxlIARdHNNT11_fPw",
+      "place_id": "ChIJGzrIlpjxlIARdHNNT11_fPw"
+    },
+    {
+      "name": "San Diego Appliance Repair Center",
+      "address": "14322 Ocean Jasper Wy, San Diego, CA 92121",
+      "phone": "(858) 900-9930",
+      "website": "https://sd-appliancerepair.com/",
+      "rating": 4.9,
+      "review_count": 71,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=San%20Diego%20Appliance%20Repair%20Center&query_place_id=ChIJe8j6c4r324AR_nhjDTWXsnQ",
+      "place_id": "ChIJe8j6c4r324AR_nhjDTWXsnQ"
+    },
+    {
+      "name": "Appliance PRO Repair",
+      "address": "3707 Indiana St, San Diego, CA 92103",
+      "phone": "(858) 866-8340",
+      "website": "https://applianceprorepair.com/",
+      "rating": 4.7,
+      "review_count": 117,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "10\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM to 8\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Appliance%20PRO%20Repair&query_place_id=ChIJ9SWHz4T_24ARe6RruHMHiTc",
+      "place_id": "ChIJ9SWHz4T_24ARe6RruHMHiTc"
+    },
+    {
+      "name": "ECH Appliance Repair",
+      "address": "3145 31st St, San Diego, CA 92104",
+      "phone": "(619) 642-2444",
+      "website": "https://echappliancerepair.com/",
+      "rating": 4.9,
+      "review_count": 204,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 10\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 5\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=ECH%20Appliance%20Repair&query_place_id=ChIJ7TF_pr9V2YARTNPYAnwKZzY",
+      "place_id": "ChIJ7TF_pr9V2YARTNPYAnwKZzY"
+    },
+    {
+      "name": "Appliance Repair Local",
+      "address": "6328 Quillan St, San Diego, CA 92111",
+      "phone": "(619) 877-6655",
+      "website": "https://appliance-repair-local.com/",
+      "rating": 4.9,
+      "review_count": 110,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 9\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Appliance%20Repair%20Local&query_place_id=ChIJj2AePijd24ARJY4ft1rAEio",
+      "place_id": "ChIJj2AePijd24ARJY4ft1rAEio"
+    },
+    {
+      "name": "ALFA APPLIANCES",
+      "address": "1922 Second Ave, San Diego, CA 92101",
+      "phone": "(619) 458-6508",
+      "website": "https://alfarepairpro.com/",
+      "rating": 5,
+      "review_count": 56,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=ALFA%20APPLIANCES&query_place_id=ChIJia2I4KtFBAURWCPZ5LhxaKQ",
+      "place_id": "ChIJia2I4KtFBAURWCPZ5LhxaKQ"
+    },
+    {
+      "name": "858 Appliance Repair",
+      "address": "3701 El Cajon Blvd, San Diego, CA 92105",
+      "phone": "(858) 277-5426",
+      "website": "https://www.858appliance.com/",
+      "rating": 4.7,
+      "review_count": 169,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM to 6\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=858%20Appliance%20Repair&query_place_id=ChIJfeOWI0VU2YAR5BxYh2EnlDw",
+      "place_id": "ChIJfeOWI0VU2YAR5BxYh2EnlDw"
+    },
+    {
+      "name": "Spark Appliance Repair",
+      "address": "688 13th St, San Diego, CA 92101",
+      "phone": "(619) 877-6444",
+      "website": "https://sparkappliancerepair.us/san-diego/",
+      "rating": 5,
+      "review_count": 56,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM to 9\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Spark%20Appliance%20Repair&query_place_id=ChIJmSlZVe3NAkcRyTmL7M7jkYU",
+      "place_id": "ChIJmSlZVe3NAkcRyTmL7M7jkYU"
+    },
+    {
+      "name": "Premier Appliance Repair San Diego",
+      "address": "7160 Miramar Rd UNIT 126, San Diego, CA 92121",
+      "phone": "(877) 379-6200",
+      "website": "http://www.premierappliancesandiego.com/",
+      "rating": 4.6,
+      "review_count": 205,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Premier%20Appliance%20Repair%20San%20Diego&query_place_id=ChIJuzQ-JAZY2YARTsP10n-fWRs",
+      "place_id": "ChIJuzQ-JAZY2YARTsP10n-fWRs"
+    },
+    {
+      "name": "Home Appliance Service Center",
+      "address": "11417 W Bernardo Ct Ste M, San Diego, CA 92127",
+      "phone": "(619) 928-5000",
+      "website": "https://home-appliance-repair-san-diego.com/",
+      "rating": 5,
+      "review_count": 195,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 9\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Home%20Appliance%20Service%20Center&query_place_id=ChIJNTnp8lP324ARvC9cz3czEFU",
+      "place_id": "ChIJNTnp8lP324ARvC9cz3czEFU"
+    },
+    {
+      "name": "Appliance Repair San Diego",
+      "address": "8304 Clairemont Mesa Blvd, San Diego, CA 92111",
+      "phone": "(619) 332-3426",
+      "website": "https://appliancerepairsandiego.xyz/",
+      "rating": 5,
+      "review_count": 4,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 8\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Appliance%20Repair%20San%20Diego&query_place_id=ChIJ4RHirmrzXIYRjxTvi9YpqcQ",
+      "place_id": "ChIJ4RHirmrzXIYRjxTvi9YpqcQ"
+    },
+    {
+      "name": "Appliance Service Center",
+      "address": "5005 Texas St Ste 485, San Diego, CA 92108",
+      "phone": "(619) 719-5005",
+      "website": "https://appliancerepair-sd.com/services/",
+      "rating": 4.9,
+      "review_count": 182,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 9\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Appliance%20Service%20Center&query_place_id=ChIJ7xgGMbN5q20R0eKizBDbJ0M",
+      "place_id": "ChIJ7xgGMbN5q20R0eKizBDbJ0M"
+    },
+    {
+      "name": "SpeedMates Home Services",
+      "address": "8638 Lake Ashmere Dr #59, San Diego, CA 92119",
+      "phone": "(619) 365-5619",
+      "website": "https://speedmates.com/locations/california/san-diego/",
+      "rating": 4.7,
+      "review_count": 103,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM to 5\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9:30\u202fAM to 5\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=SpeedMates%20Home%20Services&query_place_id=ChIJv1aZwKNX2YAR_cPlp5Jvek4",
+      "place_id": "ChIJv1aZwKNX2YAR_cPlp5Jvek4"
+    },
+    {
+      "name": "SmartFix Appliances",
+      "address": "6820 Hyde Park Dr, San Diego, CA 92119",
+      "phone": "(619) 666-1372",
+      "website": "http://smartfxappliance.com/",
+      "rating": 4.8,
+      "review_count": 93,
+      "category": "Appliance repair service",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM to 11\u202fPM"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=SmartFix%20Appliances&query_place_id=ChIJxd1mrXJX2YARNGkatZkTR-A",
+      "place_id": "ChIJxd1mrXJX2YARNGkatZkTR-A"
+    },
+    {
+      "name": "Allbritten Heating, Air Conditioning, Plumbing, and Electrical",
+      "address": "2842 N Business Park Ave, Fresno, CA 93727",
+      "phone": "(559) 292-4919",
+      "website": "http://www.allbritten.com/",
+      "rating": 4.8,
+      "review_count": 5373,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM to 7\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM to 4\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Allbritten%20Heating%2C%20Air%20Conditioning%2C%20Plumbing%2C%20and%20Electrical&query_place_id=ChIJAWGCsYBelIARcyMYutKlLsw",
+      "place_id": "ChIJAWGCsYBelIARcyMYutKlLsw"
+    },
+    {
+      "name": "Balanced Comfort",
+      "address": "4485 N Selland Ave, Fresno, CA 93722",
+      "phone": "(559) 328-5664",
+      "website": "https://www.balancedcomfort.com/?utm_campaign=gmb",
+      "rating": 4.9,
+      "review_count": 3529,
+      "category": "HVAC contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Balanced%20Comfort&query_place_id=ChIJEfHWJrZYlIARSzXNPgqG06s",
+      "place_id": "ChIJEfHWJrZYlIARSzXNPgqG06s"
+    },
+    {
+      "name": "Lee's Air, Plumbing, Heating, & Roofing",
+      "address": "2440 S Gearhart Ave #101, Fresno, CA 93725",
+      "phone": "(559) 214-1737",
+      "website": "https://leesair.com/",
+      "rating": 4.8,
+      "review_count": 421,
+      "category": "Air conditioning contractor",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Lee's%20Air%2C%20Plumbing%2C%20Heating%2C%20%26%20Roofing&query_place_id=ChIJsyEO5h1flIAR906knBoYuXM",
+      "place_id": "ChIJsyEO5h1flIAR906knBoYuXM"
+    },
+    {
+      "name": "Chris' Rooter",
+      "address": null,
+      "phone": "(559) 222-4262",
+      "website": "",
+      "rating": 5,
+      "review_count": 51,
+      "category": "Plumber",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Chris'%20Rooter&query_place_id=ChIJu7p_E-tnlIAR4LQpBFd1Spc",
+      "place_id": "ChIJu7p_E-tnlIAR4LQpBFd1Spc"
+    },
+    {
+      "name": "Always Rescue Plumbing Inc.",
+      "address": "1205 D St, Los Banos, CA 93635",
+      "phone": "(669) 271-1442",
+      "website": "http://alwaysrescueplumbinginc.net/",
+      "rating": 4.5,
+      "review_count": 33,
+      "category": "Plumber",
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "is_24_7": false,
+      "url": "https://www.google.com/maps/search/?api=1&query=Always%20Rescue%20Plumbing%20Inc.&query_place_id=ChIJ65rqTXwzjoARCMt0sH0kL-4",
+      "place_id": "ChIJ65rqTXwzjoARCMt0sH0kL-4"
+    }
+  ],
+  "analysis": {
+    "summary": {
+      "total_competitors": 68,
+      "with_website": 63,
+      "with_high_rating_4_5_plus": 65,
+      "offering_24_7_service": 0,
+      "average_rating": 4.84,
+      "average_review_count": 633.1
+    },
+    "top_rated": [
+      {
+        "name": "HVAC Near Me",
+        "rating": 5,
+        "reviews": 592,
+        "website": "https://hvacnearme.today/"
+      },
+      {
+        "name": "Ez Breezy Heating & Air",
+        "rating": 5,
+        "reviews": 468,
+        "website": "https://ezbreezyac.com/"
+      },
+      {
+        "name": "JPM Heating & Air Inc.",
+        "rating": 5,
+        "reviews": 355,
+        "website": "https://www.jpmair.com/"
+      },
+      {
+        "name": "Smith & Sons Heating and Air Inc.",
+        "rating": 5,
+        "reviews": 203,
+        "website": "https://smithandsonsheatandair.com/"
+      },
+      {
+        "name": "Home Appliance Service Center",
+        "rating": 5,
+        "reviews": 195,
+        "website": "https://home-appliance-repair-san-diego.com/"
+      },
+      {
+        "name": "Express Appliance Services",
+        "rating": 5,
+        "reviews": 191,
+        "website": "https://expressapplianceservices.com/"
+      },
+      {
+        "name": "Cano Air Conditioning & Heating Inc.",
+        "rating": 5,
+        "reviews": 177,
+        "website": "https://www.canoair.com/"
+      },
+      {
+        "name": "Comfort Air Conditioning & Heating",
+        "rating": 5,
+        "reviews": 151,
+        "website": "https://www.comfortacandheating.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      {
+        "name": "Surf Bros HVAC",
+        "rating": 5,
+        "reviews": 109,
+        "website": "https://www.surfbroshvac.com/"
+      },
+      {
+        "name": "Reliable Standard Heating & Air",
+        "rating": 5,
+        "reviews": 104,
+        "website": "http://reliablestandard.com/"
+      }
+    ],
+    "most_reviewed": [
+      {
+        "name": "Anderson Plumbing, Heating & Air",
+        "rating": 4.8,
+        "reviews": 5839,
+        "website": "https://www.andersonplumbingheatingandair.com/service-areas/san-diego/?utm_source=google&utm_medium=GBP"
+      },
+      {
+        "name": "Allbritten Heating, Air Conditioning, Plumbing, and Electrical",
+        "rating": 4.8,
+        "reviews": 5373,
+        "website": "http://www.allbritten.com/"
+      },
+      {
+        "name": "Bill Howe Plumbing, Heating & Air, Restoration & Flood Services",
+        "rating": 4.8,
+        "reviews": 4771,
+        "website": "http://www.billhowe.com/"
+      },
+      {
+        "name": "Mauzy Cooling, Heating, Plumbing, and Electrical",
+        "rating": 4.8,
+        "reviews": 4666,
+        "website": "https://mauzy.com/areas-served/el-cajon/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*143*mauzy-heating-air-el-cajon"
+      },
+      {
+        "name": "Balanced Comfort",
+        "rating": 4.9,
+        "reviews": 3529,
+        "website": "https://www.balancedcomfort.com/?utm_campaign=gmb"
+      },
+      {
+        "name": "Same Day Heating, Cooling, Plumbing",
+        "rating": 4.8,
+        "reviews": 1633,
+        "website": "https://samedaysd.com/?utm_source=google&utm_medium=gmb"
+      },
+      {
+        "name": "United Plumbing Heating Air & Electric",
+        "rating": 4.9,
+        "reviews": 1584,
+        "website": "https://localunitedservices.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb"
+      },
+      {
+        "name": "Guthrie & Sons Heating, Air and Solar",
+        "rating": 4.9,
+        "reviews": 1475,
+        "website": "https://www.guthrieandsons.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-San-Diego-CA"
+      },
+      {
+        "name": "Bob Jenson",
+        "rating": 4.9,
+        "reviews": 1320,
+        "website": "https://bobjenson.com/?utm_source=gmb&utm_medium=organic"
+      },
+      {
+        "name": "Carini Home Services",
+        "rating": 4.8,
+        "reviews": 973,
+        "website": "https://www.carinihome.com/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb"
+      }
+    ],
+    "insights": [
+      "65/68 competitors have 4.5+ star ratings",
+      "0/68 offer 24/7 emergency service",
+      "Average rating in market: 4.84 stars",
+      "Average review count: 633.0 reviews",
+      "Top competitor: HVAC Near Me (5 stars, 592 reviews)"
+    ]
+  },
+  "scraped_at": "2026-01-11 11:05:31"
+}

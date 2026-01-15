@@ -1,0 +1,232 @@
+/* Responsive Styles - Mobile First */
+
+/* Small Mobile (default) */
+.services-grid {
+  grid-template-columns: 1fr;
+}
+
+.benefits-grid {
+  grid-template-columns: 1fr;
+}
+
+.testimonials-grid {
+  grid-template-columns: 1fr;
+}
+
+.footer-grid {
+  grid-template-columns: 1fr;
+}
+
+/* Large Mobile (480px+) */
+@media (min-width: 480px) {
+  .hero-ctas {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Tablet (768px+) */
+@media (min-width: 768px) {
+  .container {
+    padding-left: var(--space-8);
+    padding-right: var(--space-8);
+  }
+
+  .section {
+    padding-top: var(--space-24);
+    padding-bottom: var(--space-24);
+  }
+
+  .section-lg {
+    padding-top: var(--space-32);
+    padding-bottom: var(--space-32);
+  }
+
+  /* Navigation */
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: var(--space-8);
+  }
+
+  .header-cta {
+    display: flex;
+  }
+
+  .menu-toggle {
+    display: none;
+  }
+
+  /* Hero */
+  .hero {
+    min-height: 90vh;
+  }
+
+  .hero-content {
+    padding: var(--space-16) var(--space-8);
+  }
+
+  /* Services Grid */
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-8);
+  }
+
+  /* Benefits */
+  .benefits-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-12);
+  }
+
+  /* Testimonials */
+  .testimonials-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-8);
+  }
+
+  /* Footer */
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-bottom {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+/* Desktop (1024px+) */
+@media (min-width: 1024px) {
+  .container {
+    padding-left: var(--space-12);
+    padding-right: var(--space-12);
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  /* Hero - larger left-aligned layout */
+  .hero-content {
+    max-width: 640px;
+    padding: var(--space-20) var(--space-12);
+  }
+
+  /* Services Grid */
+  .services-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-8);
+  }
+
+  /* Benefits - keep 2 columns for readability */
+  .benefits-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-12) var(--space-16);
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  /* Testimonials */
+  .testimonials-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-8);
+  }
+
+  /* Footer */
+  .footer-grid {
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+    gap: var(--space-12);
+  }
+}
+
+/* Large Desktop (1280px+) */
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1320px;
+  }
+
+  .hero-content {
+    max-width: 720px;
+    padding-left: var(--space-16);
+  }
+}
+
+/* Mobile Landscape */
+@media (max-width: 767px) and (orientation: landscape) {
+  .hero {
+    min-height: 100vh;
+  }
+
+  .hero-title {
+    font-size: var(--text-3xl);
+  }
+
+  .hero-subtitle {
+    font-size: var(--text-base);
+  }
+}
+
+/* Touch Device Optimizations */
+@media (hover: none) {
+  .service-card:hover {
+    transform: none;
+    box-shadow: var(--shadow-md);
+  }
+
+  .service-card:hover::before {
+    transform: scaleY(0);
+  }
+
+  .btn:hover {
+    transform: none;
+  }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .header,
+  .footer,
+  .mobile-menu,
+  .cta-section,
+  .btn {
+    display: none !important;
+  }
+
+  .hero {
+    height: auto;
+    min-height: auto;
+    padding: 2rem 0;
+    background: none;
+    color: #000;
+  }
+
+  .hero-title,
+  .hero-subtitle {
+    color: #000;
+  }
+
+  .section {
+    padding: 1rem 0;
+  }
+
+  body {
+    font-size: 12pt;
+    line-height: 1.4;
+    color: #000;
+    background: #fff;
+  }
+}
