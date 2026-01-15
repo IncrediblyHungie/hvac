@@ -114,6 +114,8 @@
   padding: var(--space-2) var(--space-4);
   border-radius: var(--radius-full);
   transition: all var(--transition-fast);
+  white-space: nowrap;
+  font-size: var(--text-sm);
 }
 
 .header-phone:hover {
@@ -123,6 +125,7 @@
 .header-phone svg {
   width: 18px;
   height: 18px;
+  flex-shrink: 0;
 }
 
 /* Mobile Menu Toggle */
@@ -266,8 +269,8 @@
   position: absolute;
   inset: 0;
   background-size: cover;
-  background-position: center right;
-  opacity: 0.15;
+  background-position: center center;
+  opacity: 0.2;
   mix-blend-mode: luminosity;
 }
 

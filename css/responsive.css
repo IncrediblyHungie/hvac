@@ -153,10 +153,27 @@
   }
 }
 
+/* Mobile Portrait - better hero image visibility */
+@media (max-width: 767px) {
+  .hero-bg {
+    background-size: 140% auto;
+    background-position: 60% 20%;
+  }
+
+  .hero {
+    min-height: 85vh;
+  }
+}
+
 /* Mobile Landscape */
 @media (max-width: 767px) and (orientation: landscape) {
   .hero {
     min-height: 100vh;
+  }
+
+  .hero-bg {
+    background-size: cover;
+    background-position: center center;
   }
 
   .hero-title {
