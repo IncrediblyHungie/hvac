@@ -163,6 +163,18 @@
   .hero {
     min-height: 85vh;
   }
+
+  .hero-content {
+    text-align: center;
+  }
+
+  .hero-ctas {
+    align-items: center;
+  }
+
+  .hero-trust {
+    justify-content: center;
+  }
 }
 
 /* Mobile Landscape */

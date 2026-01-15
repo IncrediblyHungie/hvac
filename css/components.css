@@ -214,6 +214,12 @@
   margin-top: var(--space-8);
 }
 
+.mobile-menu-cta .btn {
+  white-space: nowrap;
+  font-size: var(--text-sm);
+  padding: var(--space-4) var(--space-6);
+}
+
 .mobile-menu-overlay {
   position: fixed;
   inset: 0;
