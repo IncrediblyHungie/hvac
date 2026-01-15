@@ -475,7 +475,7 @@
   background-color: var(--color-white);
   border-radius: var(--radius-xl);
   padding: var(--space-8);
-  text-align: left;
+  text-align: center;
   box-shadow: var(--shadow-md);
   transition: all var(--transition-base);
   border: 1px solid rgba(26, 54, 93, 0.06);
@@ -507,7 +507,7 @@
 .service-icon {
   width: 64px;
   height: 64px;
-  margin-bottom: var(--space-5);
+  margin: 0 auto var(--space-5);
   background: linear-gradient(135deg, var(--color-background-alt) 0%, var(--color-background-warm) 100%);
   border-radius: var(--radius-lg);
   display: flex;

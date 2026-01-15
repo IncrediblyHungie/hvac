@@ -175,16 +175,6 @@
   .hero-trust {
     justify-content: center;
   }
-
-  /* Center service cards on mobile */
-  .service-card {
-    text-align: center;
-  }
-
-  .service-icon {
-    margin-left: auto;
-    margin-right: auto;
-  }
 }
 
 /* Mobile Landscape */
