@@ -1,32 +1,32 @@
 /* A-Tech Repair - Design System Variables */
 
 :root {
-  /* Refined Brand Colors - warm, sophisticated, distinctive */
-  --color-primary: #1a365d;           /* Deep navy - trustworthy, not generic */
-  --color-primary-dark: #0f2444;
-  --color-primary-light: #2d4a7c;
-  --color-secondary: #e85d4c;         /* Warm coral - energetic, approachable */
-  --color-secondary-dark: #d14836;
-  --color-secondary-light: #f07d6f;
-  --color-accent: #f4a261;            /* Warm amber - for highlights */
-  --color-accent-hover: #e09052;
-  --color-background: #fefefe;
-  --color-background-alt: #f7f5f3;    /* Warm cream, not cold gray */
-  --color-background-warm: #faf8f5;
-  --color-text: #2d3748;              /* Softer than pure black */
-  --color-text-muted: #718096;
-  --color-text-light: #a0aec0;
+  /* A-Tech Brand Colors - matching original site */
+  --color-primary: #16b7cc;           /* Teal/Cyan - A-Tech brand color */
+  --color-primary-dark: #139fb1;
+  --color-primary-light: #1ecde4;
+  --color-secondary: #1e96e1;         /* Blue - secondary accent */
+  --color-secondary-dark: #1a7fc4;
+  --color-secondary-light: #4aabe8;
+  --color-accent: #16b7cc;            /* Teal for highlights */
+  --color-accent-hover: #139fb1;
+  --color-background: #ffffff;
+  --color-background-alt: #f5f5f5;
+  --color-background-warm: #f9f9f9;
+  --color-text: #313131;              /* Dark gray from original */
+  --color-text-muted: #666666;
+  --color-text-light: #999999;
   --color-white: #ffffff;
-  --color-dark: #171923;              /* Rich dark for footer */
-  --color-success: #38a169;
-  --color-overlay: rgba(26, 54, 93, 0.85);
-  --color-overlay-light: rgba(26, 54, 93, 0.6);
+  --color-dark: #313131;              /* Dark gray for footer */
+  --color-success: #28a745;
+  --color-overlay: rgba(22, 183, 204, 0.9);
+  --color-overlay-light: rgba(22, 183, 204, 0.7);
 
   /* Emergency/CTA Colors */
-  --color-emergency: #e85d4c;
-  --color-emergency-hover: #d14836;
-  --color-estimate: #1a365d;
-  --color-estimate-hover: #0f2444;
+  --color-emergency: #16b7cc;
+  --color-emergency-hover: #139fb1;
+  --color-estimate: #1e96e1;
+  --color-estimate-hover: #1a7fc4;
 
   /* Typography - distinctive pairing */
   --font-heading: 'DM Serif Display', Georgia, 'Times New Roman', serif;
@@ -86,12 +86,12 @@
   --radius-xl: 1.5rem;
   --radius-full: 9999px;
 
-  /* Shadows - warmer, softer */
-  --shadow-sm: 0 1px 3px rgba(26, 54, 93, 0.06);
-  --shadow-md: 0 4px 12px rgba(26, 54, 93, 0.08);
-  --shadow-lg: 0 12px 32px rgba(26, 54, 93, 0.12);
-  --shadow-xl: 0 24px 48px rgba(26, 54, 93, 0.16);
-  --shadow-glow: 0 0 40px rgba(232, 93, 76, 0.15);
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.12);
+  --shadow-xl: 0 24px 48px rgba(0, 0, 0, 0.15);
+  --shadow-glow: 0 0 40px rgba(22, 183, 204, 0.2);
 
   /* Transitions */
   --transition-fast: 150ms ease;
